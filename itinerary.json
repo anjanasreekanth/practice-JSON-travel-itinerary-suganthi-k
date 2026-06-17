@@ -1,0 +1,52 @@
+{
+  "tripName": "India and Hawaii Adventure",
+
+  "traveler": {
+    "fullName": "Suganthi Karuppusamy",
+    "contact": {
+      "emailId": "suganthi1410@gmail.com",
+      "phoneNumber": "123-456-789"
+    }
+  },
+
+  "destinations": [
+    {
+      "location": "India",
+      "city": "Madurai",
+      "arrivalDate": "2026-12-25",
+      "departureDate": "2027-01-15",
+
+      "activities": [
+        {
+    
+          "title": "Meenakshi amman temple",
+          "time": "7:00 AM"
+        },
+        {
+          "title": "Alagar kovil",
+          "time": "2:00 PM"
+        },
+        {
+            "title": "Thirumalai nayakkar mahal",
+            "time": "5.00 PM"
+        }
+      ]
+    },
+
+    {
+      "location": "Hawaii",
+      "arrivalDate": "2026-07-23",
+      "departureDate": "2026-07-28",
+      "activities": [
+        {
+          "title": "Hawaiian Volcano National Park Tour",
+          "time": "8.30 AM"
+        },
+        {
+          "title": "Hawaii Dolphin Cruise",
+          "time": "5.30:00 PM"
+        }
+      ]
+    }
+  ]
+}
