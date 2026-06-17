@@ -30,7 +30,11 @@
             "title": "Thirumalai nayakkar mahal",
             "time": "5.00 PM"
         }
-      ]
+      ],
+      "transportation":{
+              "mode": "Flight",
+              "cost": 3000.00
+      }
     },
 
     {
@@ -46,7 +50,31 @@
           "title": "Hawaii Dolphin Cruise",
           "time": "5.30:00 PM"
         }
-      ]
+      ],
+      "transportation":{
+              "mode": "Flight",
+              "cost": 2500.00
+      }
+    },
+    {
+      "location":"London",
+      "arrivalDate": "2026-08-20",
+      "departureDate":"2026-08-31",
+      "activities": [
+        {
+          "title":"Visit Buckhingham Palace",
+          "time":"8.30 AM"
+        },
+        {
+          "title":"Visit Stamford Bridge",
+          "time":"4:00 PM"
+        }
+      ],
+      "transportation":{
+              "mode": "Flight",
+              "cost": 3000.00
+      }
     }
+    
   ]
 }
